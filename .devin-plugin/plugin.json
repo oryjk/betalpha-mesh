@@ -1,0 +1,8 @@
+{
+  "name": "betalpha-mesh-skills",
+  "version": "0.1.0",
+  "description": "Betalpha Mesh 投研场景技能集：MCP 接入引导、资产买卖信号解读、因子血缘查询与解释。",
+  "author": { "name": "Betalpha" },
+  "license": "MIT",
+  "skills": "skills"
+}

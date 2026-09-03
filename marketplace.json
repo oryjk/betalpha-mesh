@@ -1,0 +1,30 @@
+{
+  "name": "betalpha-mesh-skills",
+  "description": "Betalpha Mesh 投研场景技能集市场：接入引导、买卖信号解读、因子血缘解释。",
+  "plugins": [
+    {
+      "name": "betalpha-mesh-skills",
+      "source": {
+        "source": "github",
+        "repo": "oryjk/betalpha-mesh"
+      },
+      "description": "Betalpha Mesh 投研场景技能集：MCP 接入引导（betalpha-mesh-onboarding）、资产买卖信号解读（betalpha-asset-signal）、因子血缘查询与解释（betalpha-factor-lineage）。",
+      "description_i18n": {
+        "en": "Betalpha Mesh research scenario skills: MCP onboarding, asset buy/sell signal interpretation, and factor lineage explanation.",
+        "zh-CN": "Betalpha Mesh 投研场景技能集：MCP 接入引导、资产买卖信号解读、因子血缘查询与解释。"
+      },
+      "version": "0.1.0",
+      "author": { "name": "Betalpha" },
+      "category": "domain-skills",
+      "keywords": [
+        "betalpha",
+        "mesh",
+        "finance",
+        "factor",
+        "signal",
+        "lineage",
+        "mcp"
+      ]
+    }
+  ]
+}
